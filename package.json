@@ -1,11 +1,11 @@
 {
   "name": "test",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "commitlint.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "commit": "commit"
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
