@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commitlint.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrorocha014/ReleaseNotes-Learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrorocha014/ReleaseNotes-Learning/issues"
+  },
+  "homepage": "https://github.com/pedrorocha014/ReleaseNotes-Learning#readme",
+  "dependencies": {
+    "@commitlint/config-conventional": "^17.6.3",
+    "@commitlint/prompt-cli": "^17.6.3",
+    "commitlint": "^17.6.3"
+  }
+}
