@@ -5,6 +5,7 @@
   "main": "commitlint.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "cz",
     "release": "standard-version"
   },
   "repository": {
