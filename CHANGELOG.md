@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/pedrorocha014/ReleaseNotes-Learning/compare/v2.0.0...v2.1.0) (2023-05-17)
+
+
+### Features
+
+* **component:** adicionei um parágrafo ([448aee5](https://github.com/pedrorocha014/ReleaseNotes-Learning/commit/448aee5e624b76b81aeceb345dac22ae39481538))
+
 ## [2.0.0](https://github.com/pedrorocha014/ReleaseNotes-Learning/compare/v1.1.0...v2.0.0) (2023-05-16)
 
 
